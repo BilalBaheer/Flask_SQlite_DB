@@ -20,3 +20,6 @@ This code includes configurations to ensure SQLite enforces foreign key constrai
 - /blog_post/numeric_body (GET): Retrieve all blog posts with their text bodies transformed into numeric values by summing the ASCII values of characters.
 
 - /blog_post/delete_last_10 (DELETE): Delete the last 10 blog posts using a stack data structure for efficient removal.
+
+**Photo of the Databse below**
+<img width="1435" alt="Screenshot 2023-09-12 at 10 38 42 PM" src="https://github.com/BilalBaheer/Flask_SQlite_DB/assets/71363925/bb500fb5-7442-4e3f-91e9-af8c5269d7ff">
